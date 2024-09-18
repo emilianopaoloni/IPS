@@ -1,0 +1,1 @@
+N = 1000 ; z = randn(1,N); figure, plot(z); figure, hist(z,3);
